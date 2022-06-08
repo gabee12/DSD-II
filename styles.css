@@ -10,3 +10,7 @@
 .two {
     background-color: #9836ec;
 }
+.ukraine-flag {
+    display: inline-block;
+    background: linear-gradient(180deg, #005BBC, #FFD600);
+}
