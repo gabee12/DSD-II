@@ -1,0 +1,12 @@
+.pallete {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+.one {
+    background-color: #8aec36;
+}
+.two {
+    background-color: #9836ec;
+}
