@@ -13,4 +13,6 @@
 .ukraine-flag {
     display: inline-block;
     background: linear-gradient(180deg, #005BBC, #FFD600);
+    width: 100px;
+    height: 100px;
 }
